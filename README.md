@@ -19,13 +19,11 @@ Here are some ideas to get you started:
 Hey There!! Welcome to my GitHub profile😊😊. Glad to see you here! 🤩
 
 <h1 align='center'>Hey 👋, This is Jimit Raval</h1>
-<p align = 'center'> 
- <a href = https://www.linkedin.com/in/https://www.linkedin.com/in/jimit-raval-68b583128/ target='blank'><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a>
 <h2 align='center'>About Me🤓</h2>
 <p align='center'>iOS application & Website Developer with skills in UI/UX Research & Design. 1 year of experience in Web development, 2 months of experience in iOS development, 2 months of experience in UX Research & Design. I can also develop nice looking websites using Redux, WordPress, Shopify, WiX, and cross-platform applications using React-Native.</p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
- <a href = "jimmi1998" target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = "jimit-raval" target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = "jimmiraval" target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
-<a href = "jimitraval" target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/behance.svg height='30' weight='30'/></a></p>
+ <a href = "https://github.com/jimmi1998" target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
+<a href = "https://www.linkedin.com/in/jimit-raval/" target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = "https://twitter.com/jimmiraval" target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
+<a href = "https://www.behance.net/jimitraval" target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/behance.svg height='30' weight='30'/></a></p>
 
