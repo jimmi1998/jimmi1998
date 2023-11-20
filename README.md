@@ -20,7 +20,7 @@ Hey There!! Welcome to my GitHub profile😊😊. Glad to see you here! 🤩
 
 <h1 align='center'>Hey 👋, This is Jimit Raval</h1>
 <h2 align='center'>About Me🤓</h2>
-<p align='center'>Diligent software engineer with 3+ Years of Experience. Proven experience with full stack development, across back-end such as websites and mobile applications using Java, Kotlin, iOS, C, C++, Python and front-end experience including JavaScript, HTML, CSS, React, Flutter, UI/UX. Experienced with Data Structures, Algorithms, and OOP. Familiarity in atomization, build/release engineering and software development involving cloud computing platforms like GCP. 
+<p>Diligent software engineer with 3+ Years of Experience. Proven experience with full stack development, across back-end such as websites and mobile applications using Java, Kotlin, iOS, C, C++, Python and front-end experience including JavaScript, HTML, CSS, React, Flutter, UI/UX. Experienced with Data Structures, Algorithms, and OOP. Familiarity in atomization, build/release engineering and software development involving cloud computing platforms like GCP. 
 
 I have completed Certification in various Tech Stacks: iOS, React, Flutter, User Experience, & hands on experience with Data Structure & Algorithms, Object-Oriented Programming. Proven ability to collaborate with cross-functional teams to deliver high-quality software & promote engineering excellence. Experienced in Agile software development methodologies. 
 
