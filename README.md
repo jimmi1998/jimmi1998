@@ -2,7 +2,6 @@
 
 <!-- **jimmi1998/jimmi1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Jimit Raval
 Hey There!! Welcome to my GitHub profile😊😊. Glad to see you here! 🤩
 
 # 💫 About Me:
