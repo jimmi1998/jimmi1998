@@ -36,7 +36,9 @@ For my leisure, I play badminton, listen to music, and learn new programming lan
 ![](https://github-profile-trophy.vercel.app/?username=jimmi1998&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
 
 # 📧 Email me at
-<p> Feel free to reach out to me by [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](12jraval@gmail.com) </p>
+<p> Feel free to reach out to me by </p> 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](12jraval@gmail.com) 
 
 <!--  ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jimmi1998&limit=5&theme=dark&combine_all_yearly_contributions=true) 
